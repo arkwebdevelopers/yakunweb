@@ -1,0 +1,25 @@
+body {
+	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
+	font-family: 'Oswald', sans-serif;
+	background-color: rgba(175, 175, 175, 0.62);
+}
+
+.portfolio-item {
+	margin-bottom: 25px;
+}
+
+
+p{
+  font-family: 'Open Sans', sans-serif;
+}
+.rowBg{
+	background-color: rgba(255, 255, 255, 0.2);
+	margin-top: 20px;
+}
+.rowColsImage{
+	padding-left: 100px;
+	padding-top: 35px;
+}
+.rowColsText{
+	padding-top: 20px;
+}
